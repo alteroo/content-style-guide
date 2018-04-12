@@ -1,4 +1,4 @@
-# Welcome to the Leap Co 
+# Welcome to the Leap Co Content Style Guide
 (based on the MailChimp Content Style Guide)
 
 This style guide is primarily for writers for the Leap Co. 
