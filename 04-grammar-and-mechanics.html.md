@@ -72,11 +72,13 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 ### Numbers
 
 Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
+In the middle of a sentence use numerals to express numbers 10 and above and spell out numbers from zero to nine.
+Ordinals such as first, second and third should be expressed as words up to the ninth position, 10th and larger should be expressed with a number.
 
 - Ten new employees started on Monday, and 12 start next week.
-- I ate 3 donuts at Coffee Hour.
-- Meg won 1st place in last year’s Walktober contest.
-- We hosted a group of 8th graders who are learning to code.
+- I ate three donuts at Coffee Hour.
+- The Leap Co is the the first impact investment fund in the Caribbean.
+- The accident happened on 123rd street.
 
 (Sometimes it feels weird to use "1" instead of "one." Just go with your gut.) 
 
@@ -135,9 +137,9 @@ Use dashes without spaces between numbers. Use a country code if your reader is 
 
 #### Temperature
 
-Use the degree symbol and the capital F abbreviation for Fahrenheit.
+Use the degree symbol and the capital C abbreviation for Celcius (we do not use Farenheit).
 
-- 98°F
+- 36°C
 
 #### Time
 
@@ -337,19 +339,19 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about MailChimp
+#### Writing about The Leap Co
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "MailChimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "MailChimp."
+Our company's legal entity name is "The Leap Company Limited" Our trade name is "The Leap Co" Use "The Leap Company Limited" only when writing legal documents or contracts. Otherwise, use "The Leap Co"
 
-Always capitalize the first “M” and the “C” in MailChimp.
+Always capitalize the first “T“, “L” and the “C” in The Leap Co.
 
-Refer to MailChimp as “we,” not “it.”
+Refer to The Leap Co as “we,” not “it.”
 
-Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention.
+Capitalize the proper names of The Leap Co products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "The Leap Co" in the name on first mention. For headings use sentence-case.
 
-- MailChimp Pro
-- MailChimp Snap
-- Look What You Can Do
+- The Leap Co Spark Toolkit
+- The Leap Co Innovator's Conference
+- Learn more about The Leap Co
 
 #### Writing about other companies
 
@@ -365,7 +367,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+- The Leap Co's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
